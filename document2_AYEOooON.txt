@@ -1,0 +1,7 @@
+for i in a:
+    line = []
+    for j in range(i):
+        line.append(0)
+    b.append(line)
+    
+print(b)
