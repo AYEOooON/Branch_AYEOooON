@@ -1,6 +1,6 @@
 class Person:
-    def greeting(self):
-        print('안녕하세요')
+    def packing(self):
+        print('가방챙기기.')
         
 class University:
     def manage_credit(self):
