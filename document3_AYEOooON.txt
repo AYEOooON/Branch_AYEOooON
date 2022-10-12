@@ -1,6 +1,6 @@
 class Person:
-    def do_homework(self):
-        print('과제하기')
+    def mojor(self):
+        print('인공지능공학과')
         
 class University:
     def manage_credit(self):
